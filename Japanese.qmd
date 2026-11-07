@@ -1,0 +1,44 @@
+---
+title: "蝶名林 俊"
+date-modified: 2026-11-08
+lang: ja
+---
+
+## プロフィール
+
+創価大学の准教授、蝶名林俊です。環境経済学・開発経済学を専門とし、低・中所得国の気候変動、農業、貧困の問題を研究しています。応用計量経済学、地理空間データ、リモートセンシング、家計調査を組み合わせ、気候変動の影響を推計し、適応政策を評価しています。
+
+世界銀行エコノミストを経て、2022年より現職。コーネル大学で博士号（Natural Resources）、イェール大学で修士号（International and Development Economics）、創価大学で学士号（経済学）を取得しました。
+
+[最新の履歴書（英語）](cv.html) · [研究業績（英語）](research.html)
+
+## 最近の日本語の著作
+
+- 蝶名林俊「 [気候変動と人間主義経済](https://drive.google.com/file/d/102HyzukuRGw63Hh5Mhwv6035AiNDcmcg/view?usp=sharing) 」聖教新聞　2023年10月23日．
+- 蝶名林俊（2023）．「気候変動の経済学」 馬場善久・神立孝一・高木功（編） [人間主義経済×SDGs](https://www.daisanbunmei.co.jp/books/book.php?no=03413) ，第三文明社，pp.207--228．
+
+## 気温上昇で社会に何が起こる？経済学×データで探る未来（夢ナビ模擬授業）
+
+気温上昇が社会や経済に与える影響について、データと経済学の視点から解説しています。2025年収録。\
+[夢ナビで動画を見る](https://douga.yumenavi.info/Lecture/PublishDetail/2024003592) · [関連する短い解説記事を読む](https://yumenavi.info/vue/lecture.html?gnkcd=g015544)\
+
+[蝶名林 俊の模擬授業動画をYouTubeで開く](https://www.youtube.com/watch?v=vMnaUDgSbBE)。
+
+{{< video https://www.youtube.com/watch?v=vMnaUDgSbBE >}}
+
+## 関連情報
+
+研究・教育活動に関するさらに詳細な情報は、 [英語のホームページ](index.html) をご参照ください。
+
+## 最近の活動
+
+- **2026年7月：**私が国際専門家グループ（International Expert Group）のメンバーとして貢献しているGlobal Green Growth Indexが、ジュネーブで開催されたAI for Good Global Summit 2026でInnovative Impact Awardを受賞しました。[GGGIの発表（英語）](https://gggi.org/global-green-growth-index-receives-ai-for-good-innovative-impact-award/)
+- **2026年：**蝶名林ゼミがSDGsグッドプラクティスの優秀賞（タイプA・B）と努力賞（タイプA）を受賞。
+- **2025年：**蝶名林ゼミの堀之内君裕さんと飯島幸恵さんがAAERE Best Poster Awardを受賞。[AAEREの発表（英語）](https://aaere.org/student-poster-awards/) · [大学ニュース](https://www.soka.ac.jp/news/2025/09/20250917/)。蝶名林ゼミはCAS-Net JAPANのサステイナブルキャンパス賞・ニューカマー賞を受賞。[CAS-Net JAPANの発表](https://casnet-japan.org/info/6513210) · [大学ニュース](https://www.soka.ac.jp/news/2025/11/1114-1/)。
+- **2025年：**ゼミのAIを活用したフードロス削減施策が大学のプレスリリースで紹介され、ニュースサイトにも掲載されました。[報道・社会連携](media.html)
+
+## 教育・社会連携
+
+大学では環境経済学（大学院）、計量経済学、気候変動の経済学、人間主義経済などを担当し、ゼミ・卒業論文の指導を行っています。[Global Citizenship Lab](Global_Citizenship_Lab.html)では、学生による研究と実践を支援しています。
+
+2021年より創価高校のGlobal Citizenship Inquiry Studies（GCIS）で探究学習の授業・指導を担当。2026年6月には関西創価高校のUP授業で、気候変動、経済成長と環境保全、キャリアについて講義しました。

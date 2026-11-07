@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+    - .nojekyll
+
+website:
+  title: "Shun Chonabayashi"
+  site-url: https://shunchonabayashi.github.io
+  description: "Environmental and development economist at Soka University. Research on climate change, agriculture, and poverty."
+  favicon: assets/favicon.svg
+  search: true
+  navbar:
+    background: light
+    left:
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: Global_Citizenship_Lab.qmd
+        text: Lab & teaching
+      - href: media.qmd
+        text: Media
+      - href: hiring.qmd
+        text: Opportunities
+      - href: contact.qmd
+        text: Contact
+    right:
+      - href: Japanese.qmd
+        text: 日本語
+  page-footer:
+    left: "© 2026 Shun Chonabayashi · Soka University"
+    right:
+      - href: cv.qmd
+        text: Curriculum vitae
+      - href: contact.qmd
+        text: Contact
+  open-graph: true
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-depth: 2
+    title-block-banner: false
+    date-format: "MMMM D, YYYY"
+    link-external-newwindow: true
+    link-external-icon: false
+    include-after-body: external-links.html
+    smooth-scroll: true
+    anchor-sections: true
+    lang: en
+    grid:
+      body-width: 850px
+      margin-width: 220px
+execute:
+  freeze: auto

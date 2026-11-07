@@ -1,0 +1,18 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  for (const a of document.querySelectorAll('a[href^="http"]')) {
+    if (new URL(a.href).origin === location.origin) continue;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    const label = document.documentElement.lang.startsWith('ja') ? '新しいタブで開きます' : 'Opens in a new tab';
+    a.title = label;
+    if (a.closest('main')) {
+      const icon = document.createElement('span');
+      icon.className = 'external-indicator'; icon.setAttribute('aria-hidden','true'); icon.textContent = '↗';
+      const sr = document.createElement('span');
+      sr.className = 'sr-only'; sr.textContent = ' (' + label + ')';
+      a.append(icon, sr);
+    }
+  }
+});
+</script>

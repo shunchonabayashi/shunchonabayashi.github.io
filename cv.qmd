@@ -1,0 +1,12 @@
+---
+title: "Curriculum vitae"
+toc: false
+---
+
+My CV covers academic and professional appointments, publications, research grants, teaching, awards, and student supervision.
+
+[Download CV (PDF)](assets/CV_Shun_Chonabayashi.pdf){.btn .btn-primary}
+
+CV last updated: **October 19, 2026**.
+
+[View the Google Drive copy](https://drive.google.com/file/d/15HWjqv0xOPQjVMXtjQf6KFtEpUTXgirp/view)

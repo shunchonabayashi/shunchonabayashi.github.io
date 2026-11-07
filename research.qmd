@@ -1,0 +1,98 @@
+---
+title: "Research"
+date-modified: 2026-11-08
+---
+
+My research focuses on environmental and resource economics, development economics, and the economics of climate change, with an emphasis on impacts, adaptation, and ecosystem services.
+
+## Books
+
+[Johnson, Justin Andrew](https://justinandrewjohnson.com/),  [Giovanni Ruta](http://linkedin.com/in/giovanni-gianni-ruta-8aa89440/),  [Uris Baldos](https://www.gtap.agecon.purdue.edu/network/member_display.asp?UserID=10874),  [Raffaello Cervigni](https://www.worldbank.org/en/about/people/r/Raffaello-cervigni), Shun Chonabayashi,  [Erwin Corong](https://www.gtap.agecon.purdue.edu/network/member_display.asp?UserID=2958),  [Olga Gavryliuk](https://www.linkedin.com/in/olga-gavryliuk-886b3113/),  [James Gerber](http://environment.umn.edu/staff/james-gerber/),  [Thomas Hertel](https://ag.purdue.edu/directory/hertel),  [Christopher Nootenboom](http://environment.umn.edu/staff/chris-nootenboom/),  [Stephen Polasky](https://apec.umn.edu/people/stephen-polasky). 2021.  [The Economic Case for Nature: A Global Earth-Economy Model to Assess Development Policy Pathways](https://openknowledge.worldbank.org/handle/10986/35882). World Bank, Washington, DC. © World Bank. <https://openknowledge.worldbank.org/handle/10986/35882> License: CC BY 3.0 IGO.
+
+[Mani, Muthukumara](https://blogs.worldbank.org/en/team/m/muthukumara-mani), Sushenjit Bandyopadhyay, Shun Chonabayashi,  [Anil Markandya](https://www.bc3research.org/es/personas/personal/anil-markandya/), and  Thomas Mosier . 2018.  [South Asia\'s Hotspots: Impacts of Temperature and Precipitation Changes on Living Standards](https://openknowledge.worldbank.org/handle/10986/28723). Washington, DC: World Bank.
+
+## Journal Articles
+
+Akter, Mahfuza; Raihan, Md. Lamiur; Mukta, Most Zannatun Nahar; Rahman, Hammadur; and Chonabayashi, Shun. 2025. [Adapting to Waters: Socio-economic Influences on Flood Coping Strategies Among Farmers in Bangladesh\'s Char Areas](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12506905). Journal of Saemaulogy Vol.10 No.1 (2025.6), pp. 89--120.
+
+[Saeed, Wajiha](https://www.gtap.agecon.purdue.edu/network/member_display.asp?UserID=23747), [Iman Haqiqi](https://ag.purdue.edu/directory/ihaqiqi),  [Qinqin Kong](https://researchgate.net/profile/Qinqin-Kong-2), [Matthew Huber](https://www.eaps.purdue.edu/people/profile/huberm.html), [Jonathan Buzan](https://orcid.org/0000-0002-8199-3264), Shun Chonabayashi,  [Kazuki Motohashi](https://kazukimotohashi.github.io/), and  [Thomas Hertel](https://ag.purdue.edu/directory/hertel),  2022.  [The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF002777).  Earth \'s Future . doi: 10.1029/2022EF002777
+
+[Constenla-Villoslada, Susana](https://www.ifpri.org/profile/susana-constenla),  [Yanyan  Liu](https://www.ifpri.org/profile/yanyan-liu),  [Jiaming Wen](https://cals.cornell.edu/jiaming-wen),  [Ying Sun](https://cals.cornell.edu/ying-sun), Shun Chonabayashi.  2022 .  [Large-scale land restoration improved drought resilience in Ethiopia's degraded watersheds](https://rdcu.be/cJ0sK).  Nature Sustainability . doi: 10.1038/s41893-022-00861-4
+
+Chonabayashi, Shun,  [Theepakorn Jithitikulchai](https://theepakornblog.wordpress.com/), and Yeqing Qu. 2020.  [Does agricultural diversification build economic resilience to drought and flood? Evidence from poor households in Zambia](https://ageconsearch.umn.edu/record/307618/?ln=en#:~:text=Our%20analysis%20finds%20that%20economic,and%20floods%20on%20agricultural%20households.).  African Journal of Agricultural and Resource Economics , Volume 15, Number 1: 65-80. 
+
+[Massetti, Emanuele](https://emanuele-massetti.blogspot.com/),  [Robert Mendelsohn](https://environment.yale.edu/profile/mendelsohn/), and Shun Chonabayashi. 2016.  [How Well Do Degree Days over the Growing Season Capture the Effect of Climate on Farmland Values?](https://www.sciencedirect.com/science/article/pii/S0140988316302390)   Energy Economics , 60: 144-150. doi: 10.1016/j.eneco.2016.09.004
+
+[Li, Shanjun](https://fsi.stanford.edu/people/shanjun-li), Jun Yang,  [Ping Qin](http://www.efdinitiative.org/about-efd/people/qin-ping), and Shun Chonabayashi. 2016.  [Wheels of Fortune: Subway Expansion and Property Values in Beijing](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12284).  Journal of Regional Science . doi:10.1111/jors.12284
+
+[Mendelsohn, Robert](https://environment.yale.edu/profile/mendelsohn/),  [Kerry Emanuel](https://eaps.mit.edu/people/faculty/kerry-a-emanuel/), Shun Chonabayashi and  [Laura Bakkensen](http://www.laurabakkensen.com/). 2012.  [The Impact of Climate Change on Global Tropical Cyclone Damage](https://www.nature.com/articles/nclimate1357),  Nature Climate Change,  Volume 2, Issue 3. doi: 10.1038/NCLIMATE1357 (Based on  [World Bank Policy Research Working Paper 5562](https://documents1.worldbank.org/curated/en/760291468331919809/pdf/WPS5562.pdf) )
+
+## Book Chapters
+
+Jithitikulchai, Theepakorn, and Shun Chonabayashi . 2026. Climate Resilience Investments and Agricultural Household Livelihoods: Lessons from a Climate-Vulnerable Economy . In Nguyen, Nhan & Leal, Walter (Eds.), *Climate Change in the Tropics: Understanding and Addressing the Impacts of Climate Change to Tropical Regions* . Springer Nature. Forthcoming.
+
+Chonabayashi, Shun, and Theepakorn Jithitikulchai . 2026. [Estimating the Impact of Droughts and Floods on African Farmers](https://www.elgaronline.com/edcollchap/book/9781035344970/chapter5.xml). In Dinar, A. & Mendelsohn, R. (Eds.), [*Handbook on Climate Change Impacts, Mitigation, and Adaptation in Agriculture*](https://www.elgaronline.com/edcollbook/book/9781035344970/9781035344970.xml). Edward Elgar Publishing.
+
+Chonabayashi, Shun. 2023. "Economics of Climate Change," (in Japanese) in Baba, Yoshihisa, Koichi Kandachi, Isao Takagi (Ed),  [Humanistic Economics × SDGs](https://www.daisanbunmei.co.jp/books/book.php?no=03413), Daisan bunmeisha, pp.207-228.
+
+[Lange, Glenn-Marie](https://blogs.worldbank.org/en/team/g/glenn-marie-lange), Shun Chonabayashi,  [Kenan Karakulah](https://www.linkedin.com/in/kenan-karakulah-819ab3110/),  Esther Naikal.  2021.  " [The Impact of Air Pollution on Human Capital Wealth](https://www.sciencedirect.com/science/article/pii/B9780128190579000032)," in Fraumeni, Barbara M. (Ed), Measuring Human Capital, Academic Press.
+
+Karakulah, Kenan, Glenn-Marie Lange, Yewande Awe, and Shun Chonabayashi. 2021. "Impact of Air Pollution on Human Capital." In *The Changing Wealth of Nations 2021: Managing Assets for the Future*. World Bank.
+
+## Technical Reports and Proceedings
+
+L.A. Acosta, S. Zabrocki, J.R. Eugenio, R. Sabado Jr., S.P. Gerrard, M. Nazareth, and H.G.H. Luchtenbelt, (2020)  [Green Growth Index 2020 -- Measuring performance in achieving SDG targets](https://gggi.org/report/green-growth-index-2020-measuring-performance-in-achieving-sdg-targets/), GGGI Technical Report No. 16, Green Growth Performance Measurement Program, Global Green Growth Institute (GGGI), Seoul, South Korea \[Contributors: A. Sharma, A. Bhatt, A. Izmestiev, B. Liu, C. Hopkins, C. Krug, D. Eaton, F. Eboli, F. Tubiello, F. Sheng, G. Lafortune, H. Rankine, J. Vause, J. John-Norville, J. Maughan, J.G. Pineda, L. Farnia, M. Astralaga, N. Cantore, N. Nierhoff, N.G. Esambe, R. Hogeboom, R. Hamwey, R. Lasco, R. Cavatassi, R.G. Carmenates, S. Fekadu, S. Chonabayashi, S. Felix, S. Liu, T. Arndt, U.A. Iftikhar, V. Todorov, Z. Zarnic, Nera Mariz Puyo, Sarena Grace Quiñones, and Dervin John Valencia\] 
+
+[Pagiola, Stefano](https://www.researchgate.net/profile/Stefano_Pagiola)  and Shun Chonabayashi. 2020. \"World Bank Landscape Projects: What Role for Natural Capital Accounting?\", in Vardon, M. and Bass, S. (Eds) (2020).  [Natural Capital Accounting for Better Policy Decisions: Measuring and Valuing Natural Capital to Improve Landscape Management and Governance. Proceedings and Highlights of the 4th Forum on Natural Capital Accounting for Better Policy Decisions](https://researchportalplus.anu.edu.au/en/publications/natural-capital-accounting-for-better-policy-decisions-measuring-/). World Bank WAVES, Washington D.C.
+
+FAO and UNEP. 2020.  [The State of the World's Forests 2020. Forests, biodiversity and people](http://www.fao.org/documents/card/en/c/ca8642en). Rome. Contributing Author to Chapter 4: "People, Biodiversity and Forests".
+
+Serajuddin, Umar, et al. 2017.  [Atlas of Sustainable Development Goals 2017: From World Development Indicators](https://openknowledge.worldbank.org/handle/10986/26306). No. 114769. The World Bank, 2017. Contributing Author to Chapter 13: "Climate action".
+
+## Media and Other Publications
+
+Chonabayashi, Shun. " [Climate Change and Humanistic Economics](https://drive.google.com/file/d/102HyzukuRGw63Hh5Mhwv6035AiNDcmcg/view?usp=sharing)," (in Japanese), Seikyo newspaper, October 23, 2023.
+
+## Working Paper
+
+Mendelsohn, Robert, Kerry Emanuel, and Shun Chonabayashi. 2011. [The Impact of Climate Change on Tropical Cyclone Damages in the United States](https://openknowledge.worldbank.org/handle/10986/3639). World Bank Policy Research Working Paper No. 5561. Washington, DC: World Bank.
+
+**Selected Work in Progress**
+
+The Role of Temperature Measurement Errors in Estimating Climate Change Impacts on Crop Yields (with Ariel Ortiz-Bobea, Cornell University, and Kenji Komeda, University of Warwick).
+
+Ecosystem Services, Land-Use Change, and Sectoral Development Pathways in Thailand: Integrating Biophysical, Tourism, Agricultural, and Macroeconomic Perspectives (with Muthukumara S. Mani, Subina Thapaliya, Anil Markandya, and Yuji Fujita).
+
+Impact Evaluation of Ethiopia Sustainable Land Management Program (with [Yanyan Liu](https://www.ifpri.org/profile/yanyan-liu) and  [Mengying Wang](https://www.linkedin.com/in/mengying-wang-1883ab149/) )
+
+Impacts of Ethiopia's Sustainable Land Management Program on Women and Children Health (with  [Yanyan Liu](https://www.ifpri.org/profile/yanyan-liu)  and  [Mengying Wang](https://www.linkedin.com/in/mengying-wang-1883ab149/) )
+
+Heterogeneous Effects of Drought on Crop Yields in Zambia
+
+**Contribution to the World Bank Reports**
+
+[Unlocking Nature-Smart Development: An Approach Paper on Biodiversity and Ecosystem Services](https://openknowledge.worldbank.org/handle/10986/36047)  (2021)
+
+[Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters](https://openknowledge.worldbank.org/handle/10986/25335)  (2017)
+
+[Natural Hazards, UnNatural Disasters: The Economics of Effective Prevention](https://openknowledge.worldbank.org/handle/10986/2512)  (2010)
+
+[Low-Carbon Development: Latin American Responses to Climate Change](https://openknowledge.worldbank.org/handle/10986/2679)  (2010)
+
+Find  [my citations](https://scholar.google.com/citations?user=l8CRJ54AAAAJ&hl=en)  on Google Scholar.
+
+Find  [my author ranking and citations](https://openknowledge.worldbank.org/author-page?author=Chonabayashi,%20Shun) on the World Bank Open Knowledge Repository.
+
+## Additional Report Contributions
+
+**Recognition of the Global Green Growth Index:** The Index received the Innovative Impact Award at the AI for Good Global Summit in Geneva on July 7, 2026. I am a member of the International Expert Group for the Global Green Growth Index and have contributed to the Index reports listed below. [Read GGGI's announcement](https://gggi.org/global-green-growth-index-receives-ai-for-good-innovative-impact-award/).
+
+Contributions to the Global Green Growth Institute's *Green Growth Index*: 2019 (*Concepts, Methods and Applications*), 2021 and 2022 (*Measuring performance in achieving SDG targets*), and the 2025 summary report (*Measuring green growth performance, potential, and pathways*). See the [GGGI publications catalogue](https://greengrowthindex.gggi.org/publications-2/) and [CV](cv.html) for details.
+
+## Selected recent presentations
+
+- **Upcoming:** Environment for Development Annual Meeting, Kerala, India, November 12--14, 2026.
+- 15th Congress of the Asian Association of Environmental and Resource Economics, Jakarta, August 21, 2026.
+- 7th World Congress of Environmental and Resource Economists, 2026.
+- 2026 Africa Meeting of the Econometric Society.
+- Commentator, [World Bank seminar: From Risk to Resilience: Rethinking Growth in Southeast Asia](https://www.worldbank.org/en/events/2025/10/30/from-risk-to-resilience-rethinking-growth-in-southeast-asia), October 30, 2025.
