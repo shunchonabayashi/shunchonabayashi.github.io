@@ -47,6 +47,7 @@ format:
     link-external-newwindow: true
     link-external-icon: false
     include-after-body: external-links.html
+    include-in-header: verification.html
     smooth-scroll: true
     anchor-sections: true
     lang: en
