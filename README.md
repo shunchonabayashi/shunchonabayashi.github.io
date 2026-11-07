@@ -35,4 +35,4 @@ Replace `assets/CV_Shun_Chonabayashi.pdf` with the public academic CV and update
 
 Update `date-modified` on a content page when its content changes. The CV revision date is independent of the website migration date. Retain the existing output filenames when possible so inbound links continue to work.
 
-Content migrated from the existing university website files on November 8, 2026. The original university site was not modified. The CV is the October 19, 2026 academic version. Verify time-sensitive opportunities and forthcoming presentations when updating them.
+Content migrated from the existing university website files on November 8, 2026. The original university site was not modified. The CV is the November 8, 2026 academic version. Verify time-sensitive opportunities and forthcoming presentations when updating them.
