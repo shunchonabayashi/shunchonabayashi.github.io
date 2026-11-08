@@ -27,6 +27,8 @@ The GitHub Actions workflow renders and deploys the site whenever a commit is pu
 GitHub repository Settings → Pages must use **GitHub Actions** as the source.
 The workflow can also be run manually from the Actions tab.
 
+The publishing workflow generates `sitemap.txt` from Quarto's `sitemap.xml`, keeping both lists synchronized. The text version provides an additional sitemap submission for Google; the original XML sitemap remains available.
+
 ## Update the CV
 
 Replace `assets/CV_Shun_Chonabayashi.pdf` with the public academic CV and update the date in `cv.qmd` to the actual CV revision date. Do not upload the private AIIB CV, which contains personal contact information.

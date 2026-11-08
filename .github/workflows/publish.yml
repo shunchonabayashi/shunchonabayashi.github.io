@@ -21,6 +21,18 @@ jobs:
       - uses: actions/configure-pages@v5
       - name: Render Quarto website
         run: quarto render
+      - name: Generate plain-text sitemap from XML sitemap
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          root = ET.parse('_site/sitemap.xml').getroot()
+          urls = [node.text for node in root.findall('{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
+          if not urls or any(not url or not url.startswith('https://shunchonabayashi.github.io/') for url in urls):
+              raise ValueError('Sitemap must contain absolute URLs for this website')
+          Path('_site/sitemap.txt').write_text('\n'.join(dict.fromkeys(urls)) + '\n', encoding='utf-8')
+          PY
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
